@@ -1,2 +1,3 @@
-# computational-physics
+# Computational Physics
+
 Collection of computational physics projects.
